@@ -1,0 +1,72 @@
+﻿[
+    {
+        "Name": "Scratch",
+        "Type": "Normal",
+        "Effect": 1,
+        "Power": 40,
+        "pp": 35
+    },
+    {
+        "Name": "Tail whip",
+        "Type": "Normal",
+        "Effect": 3,
+        "Power": 1,
+        "pp": 30
+    },
+    {
+        "Name": "Quick attack",
+        "Type": "Normal",
+        "Effect": 1,
+        "Power": 40,
+        "pp": 30
+    },
+    {
+        "Name": "Ember",
+        "Type": "Fire",
+        "Effect": 1,
+        "Power": 40,
+        "pp": 25
+    },
+    {
+        "Name": "Tackle",
+        "Type": "Normal",
+        "Effect": 1,
+        "Power": 40,
+        "pp": 25
+    },
+    {
+        "Name": "Growl",
+        "Type": "Normal",
+        "Effect": 2,
+        "Power": 1,
+        "pp": 40
+    },
+    {
+        "Name": "Vine whip",
+        "Type": "Grass",
+        "Effect": 1,
+        "Power": 45,
+        "pp": 25
+    },
+    {
+        "Name": "Vine whip",
+        "Type": "Grass",
+        "Effect": 1,
+        "Power": 45,
+        "pp": 25
+    },
+    {
+        "Name": "Leer",
+        "Type": "Normal",
+        "Effect": 3,
+        "Power": 1,
+        "pp": 30
+    },
+    {
+        "Name": "Water gun",
+        "Type": "Water",
+        "Effect": 1,
+        "Power": 40,
+        "pp": 25
+    }
+]
